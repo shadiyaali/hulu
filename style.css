@@ -1,0 +1,502 @@
+.main{
+height:780px ;
+width:100%;
+background-image: url(original.jpeg);
+background-size: cover;
+ 
+
+}
+body{
+    margin:0;
+}
+
+.top{
+height: 180px;
+width:1446px;
+ 
+background: linear-gradient(180deg, rgba(0,0,0,0.76) 15.54%, rgba(0,0,0,0.192) 60.23%, rgba(0,0,0,8e-05) 100%);
+}
+
+.header{
+    height:74px;
+    width:100%;
+    
+}
+.header-left{
+    height:100%;
+width:50%;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+
+ 
+float: left;
+}
+.header-right{
+    height:100%;
+    width:50%;
+    float: left;
+    display: flex;
+     justify-content: flex-end;
+      align-items: center;
+}
+.button{
+    height: 40px;
+     width: 84px;
+    border:none;
+    background: none;
+    color:#a8afbd ;
+    font-family: "Graphik Web", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    margin-right:35px;
+
+}
+.button:hover{
+    background-color:#323843;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+.hululogo{
+    height: 20px;
+    width:60px;
+    margin-left:35px;
+}
+.middle{
+height: 706px;
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.ribbeneyebro{
+    color: #00ED82;
+    text-align:center ;
+    font-family: 'Graphik Web', 'Graphik', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .6px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.mastheadheadline{
+    height: 135px ;
+width: 603px ;
+
+}
+.subtitle{
+height:59px ;
+width: 670px;
+color: #ffffff;
+    font-family: 'Graphik Web', 'Graphik', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 1.24;
+    text-transform: none;
+    margin-top: 16px;
+    text-align: center;
+}
+.get-disney-button{
+    margin-top:20px;
+    background-color: #1CE789;
+    color:#040405;
+height: 48px; 
+width: 670px; 
+display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-family: "Graphik Web",sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+.legalsection{
+    height: 47.96px;
+    width: 536px; 
+    color:#ffffff99;  
+    background: none;
+    font-family: "Graphik web",Graphik,sans-serif;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 20px;
+
+   
+}
+.legalsection a{
+    text-decoration: underline;
+}
+.signuponly{
+    height: 20px;
+    width: 500px;
+    color:#ffffff;
+    text-decoration: underline;
+    text-align: center;
+    /* text-transform: uppercase; */
+    border: bottom 3px;
+    font-family:" graphic web",graphic,sans-serif;
+}
+.catogories{
+     height: 309px;
+     width: 100%;
+     background-color: #0b0c0f;
+      display: flex;
+    
+   
+}
+
+ .content{
+    height:309px;
+    width:996px;
+    
+   margin: auto;
+    
+   margin-top:0; 
+ }
+
+.asign{
+ height:14px;
+ width:180px;
+color:#00ED82;
+margin-top: 90px;
+text-align: center;
+font-family: "Graphik Web", sans-serif;
+margin-left:400px;
+}
+.align{
+  height:60px;
+   width:1024px;
+   color:#ffffff;
+   margin-top:25px;
+  margin-left: 280px;
+ 
+  font-family: "Graphik Web",sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.25;
+    letter-spacing: -0.5px;
+}
+
+.library{
+    height:64px;
+    width:750px ;
+    color: #ffffff;
+    font-family: "Graphik Web", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.32;
+    letter-spacing: 0px;
+    margin-left: 150px;
+    margin-top: 25px;
+    text-align: center;
+    
+
+}
+.outline{
+    height:451px ;
+    width:100% ;
+     
+    margin-top: 0;
+    display: flex;
+     background-color:#0b0c0f;
+}
+.first{
+    height: 451px; ;
+    width:295px ;
+    background-image: url(original\ \(1\).jpeg);
+    background-size: cover;
+   margin-left: 100px; 
+}
+ .timeline{
+    height: 117px; ;
+    width: 229px;
+   
+    top: 0;
+      margin: 0;
+    
+ }
+.firstline{
+    height:17px ;
+    width: 179px ;
+    color:#ffffff ;
+    margin-top: 300px;
+    font-family: "Graphik Web", sans-serif;
+    
+    margin-left: 30px;
+    align-items: center;font-family: "Graphik Web", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.36;
+    letter-spacing: 0px;
+    
+}
+.secndline{
+    height:45px;
+   
+    width:179px ;
+    color: #ffffff;
+    margin-left: 30px;
+    font-family: "Graphik Web", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.24;
+    letter-spacing: 0px;
+
+}
+.second{
+    height:451px;
+    width:295px;
+     
+    background-image:url(second.jpg);
+    
+       background-size:cover ;
+        margin-left:15px     
+ 
+        }
+ .memory{
+ 
+    height: 117px; ;
+    width: 229px;
+   
+    top: 0;
+      margin: 0;
+}
+.firsthead{
+    height:17px ;
+    width: 179px ;
+    color:#ffffff ;
+    margin-top: 300px;
+    font-family: "Graphik Web", sans-serif;
+    
+    margin-left: 30px;
+    align-items: center;font-family: "Graphik Web", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.36;
+    letter-spacing: 0px;
+    
+}
+.secndhead{
+    height:45px;
+   
+    width:179px ;
+    color: #ffffff;
+    margin-left: 30px;
+    font-family: "Graphik Web", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.24;
+    letter-spacing: 0px;
+}
+
+.third{
+    height:451px;
+    width:295px;
+     
+    background-image: url(third.jpg);
+    
+       background-size:cover ;
+        margin-left:15px ;    
+ 
+}
+ .descripion{
+    
+    height: 117px ;
+    width: 229px;
+    
+    top: 0;
+      margin: 0;
+
+ }
+.firstget{
+    height:17px ;
+    width: 126px ;
+    color:#ffffff ;
+    margin-top: 300px;
+    font-family: "Graphik Web", sans-serif;
+    
+    margin-left: 30px;
+    align-items: center;font-family: "Graphik Web", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.36;
+    letter-spacing: 0px;
+}
+
+.secndget{
+    
+    height:45px;
+   
+    width:108px ;
+    color: #ffffff;
+    margin-left:0px;
+    font-family: "Graphik Web", sans-serif;
+     margin-top: 20px;
+     font-family: "Graphik Web", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.24;
+    letter-spacing: 0px;
+
+}
+.fourth{
+    height:451px;
+    width:295px;
+     
+    background-image:  url(fourth.jpg);
+       background-size:cover ;
+        margin-left:15px ;  
+        
+    top: 0;
+    right: 0;
+    bottom: 0;
+     left: 0; 
+   
+}
+.template{
+ 
+    height: 117px ;
+    width: 229px;
+     
+    top: 0;
+      margin: 0;
+
+}
+
+.firstgap{
+    height:17px ;
+    width:56px ;
+    color: #ffffff;
+    margin-top: 300px;
+    margin-left: 30px;
+}
+
+.secondgap{
+    height:45px;
+   
+    width:108px ;
+    color: #ffffff;
+    margin-left:20px;
+    font-family: "Graphik Web", sans-serif;
+     margin-top: 300px;
+     font-family: "Graphik Web", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.24;
+    letter-spacing: 0px;
+ 
+}
+.texture{
+    height:681px ;
+    width:100% ;
+     
+    margin-top: 0;
+    display: flex;
+     background-color:#0b0c0f;  
+}
+
+.billboard{
+    height:409px ;
+    width:100% ;
+     
+    margin-top:210px;
+}
+.classical{
+    height:44px ;
+    width:976px ;
+     
+   color:#1CE783 ;
+   align-items: center;
+   font-family: 'Graphik Web', 'Graphik', sans-serif;
+   font-size: 14px;
+   font-weight: 500;
+   letter-spacing: .6px;
+   line-height: 1;
+   text-transform: uppercase;
+   margin-left: 550px;
+}
+.eyebrow{
+    height:60px;
+    width:917px ;
+    color:#ffffff;
+    font-family: 'Graphik Web', 'Graphik', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    letter-spacing: -.5px;
+    line-height: 1.25;
+    text-transform: none;
+    margin-left:470px ;
+ 
+}
+.headline{
+height:60px ;
+width:700px ;
+color: white;
+    margin: 18px 17.5% 0;
+    font-family: 'Graphik Web', 'Graphik', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 1.32;
+    text-transform: none;
+    text-align: center;
+    margin-left: 380px;
+
+}
+.channels{
+height: 20x;
+width: 290px;
+color: #ffffff;
+margin-top:50px ;
+    text-decoration: underline;
+    opacity: 0.8;
+     margin-left: 590px;
+     
+    align-items: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+    font-weight: 600;
+    font-size:16px ;
+    
+       
+}
+.icon{
+
+    background:  url(icon.svg);
+    height: 16px;
+    margin-top: 55px;
+    cursor: pointer;
+    width: 18px;
+    padding: 0;
+    border: none;
+    
+    justify-content: center;
+    display: flex;
+    margin-left: 730px;
+}
+.last{
+    height:811px ;
+    width:100% ;
+    background-image: url(original\(48\).jpeg );
+    background-size: cover;
+    margin: 0;
+}
+
